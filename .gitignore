@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.tm-project-venv/
+Untitled.ipynb
+api_keys/
+scratch.py
+test.csv
+text_database.py
+.idea/
+docs/
