@@ -37,7 +37,7 @@ def create_domain_multilist(domains: list) -> list:
 if __name__ == "__main__":
     # Configuration
     ARTICLE_URLS = "../text-mining-project-data/dirty/article-urls.csv"
-    GET_NYT_URLS = False
+    GET_NYT_URLS = True
     GET_NEWS_API_URLS = True
     GET_NYPOST_URLS = False
     GET_AP_URLS = False
