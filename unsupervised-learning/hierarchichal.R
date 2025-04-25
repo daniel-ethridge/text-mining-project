@@ -2,7 +2,6 @@ library(conflicted)
 library(dplyr)
 library(proxy)
 
-
 df <- read.csv("text-mining-project-data/clean/lem-tfidf-100-samp.csv")
 
 # Store the labels separately before removing them from the data frame
